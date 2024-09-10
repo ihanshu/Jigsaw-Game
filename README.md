@@ -12,5 +12,5 @@ use WSAD to move the blank space up, down, left, right to restore the puzzle to 
 声明：
 本项目为黑马程序员原创，该项目仅用于练习，禁止二次商用，当您下载本程序的时候，视为默认同意该声明。
 Declaration:
-This project is original by Dark Horse programmer and is only for practice purposes. 
+This project is original by Hema programmer and is only for practice purposes. 
 It is prohibited for secondary use. When you download this program, it is deemed that you agree to this statement by default.
